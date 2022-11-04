@@ -4,6 +4,7 @@ description_fr: CPJ à CY Cergy Paris Université
 contact: marine.delaborde@gmail.com
 show_downloads: false
 google_analytics:
-remote_theme: pages-themes/midnight@v0.2.0
+#remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/slate@v0.2.0
 github.is_project_page: true
 github.repository_url: https://github.com/marine-delaborde/marine-delaborde.github.io
