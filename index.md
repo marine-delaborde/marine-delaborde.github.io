@@ -85,7 +85,7 @@ Chaire de professeure junior à [CY Cergy Paris Université - LT2D](https://lt2d
 	* Joseph J Mariani, Patrick Paroubek, Gil Francopoulo, Marine Delaborde. Rediscovering 25 years of discoveries in spoken language processing: a preliminary analysis of the ISCA archive. Annual Conference of the International Speech Communication Association , Jan 2013, Lyon, France.
 	Article : ⟨hal-01840831⟩
 - **Poster** : 
-	* Frédéric Landragin, Marine Delaborde, yoann Dupont, Loïc Grobol. Description et modélisation des chaînes de référence. Le projet ANR Democrat (2016-2020) et ses avancées à mi-parcours. Cinquième édition du Salon de l’Innovation en TAL (Traitement Automatique des Langues) et RI (Recherche d’Informations), May 2018, Rennes, France. 2018. ⟨hal-01797982⟩
+	* Frédéric Landragin, Marine Delaborde, Yoann Dupont, Loïc Grobol. Description et modélisation des chaînes de référence. Le projet ANR Democrat (2016-2020) et ses avancées à mi-parcours. Cinquième édition du Salon de l’Innovation en TAL (Traitement Automatique des Langues) et RI (Recherche d’Informations), May 2018, Rennes, France. 2018. ⟨hal-01797982⟩
 - **Thèse** : 
 	* Marine Delaborde. Analyse en corpus de chaînes de coréférence : la coréférence non-stricte à l'épreuve de la linguistique outillée. Linguistique. Université de la Sorbonne nouvelle - Paris III, 2020. Français. ⟨NNT : 2020PA030073⟩. ⟨tel-03425446⟩
 
