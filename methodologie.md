@@ -1,5 +1,5 @@
 ---
-layout: default_fr
+layout: default
 ---
 
 # Méthodologie UE 4
