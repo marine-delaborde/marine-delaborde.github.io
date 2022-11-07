@@ -11,7 +11,7 @@ layout: default
 
 # Séance 2
 - **Thème** : Traitement de textes
-- Le 13/12/2022, de 14h30 ) 16h30 
+- Le 13/12/2022, de 14h30 à 16h30 
 
 # Séance 3
 - **Thème** : Interroger des corpus
