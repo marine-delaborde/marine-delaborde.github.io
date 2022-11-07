@@ -2,12 +2,20 @@
 layout: default
 ---
 
-# Poste
-- Chaire de professeure junior à [CY Cergy Paris Université - LT2D](https://lt2d.cyu.fr)
+# À propos
+- **Poste actuel** : chaire de professeure junior à [CY Cergy Paris Université - LT2D](https://lt2d.cyu.fr)
+- Membre associé au laboratoire [Lattice - CNRS - ENS](https://www.lattice.cnrs.fr)
+- [Curriculum Vitae](files/CV/CV_court_CY_Delaborde.pdf)
 
 # Contact
 - **Mail** : [marine.delaborde@cyu.fr](mailto:marine.delaborde@cyu.fr)
 - **LinkedIn** : [https://www.linkedin.com/in/marine-delaborde/](https://www.linkedin.com/in/marine-delaborde/)
+
+# Thèmes de recherche
+- Référence et coréférence
+- Linguistique de corpus outillée
+- Statistiques textuelles
+- Traitement automatique des langues
 
 # Thèse
 - **Soutenance** : le 14 décembre 2020.
@@ -29,36 +37,36 @@ layout: default
 
 # Enseignements
 - **2022-2023** : CPJ à CY Cergy Paris Université
-	* Traitement qualitatif des données textuelles en contexte professionnel (M2 Sciences du langage)
-	* Algorithmie et intelligence artificielle (M2 Sciences du langage)
-	* Constitution et exploration de corpus numériques (M2 Sciences du langage)
-	* Méthodologie (M1 Sciences du langage)
-	* Pratiques rédactionnelles (L1 Lettres modernes)
+	* Traitement qualitatif des données textuelles en contexte professionnel ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
+	* Algorithmie et intelligence artificielle ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
+	* Constitution et exploration de corpus numériques ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
+	* Méthodologie ([M1 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-1))
+	* Pratiques rédactionnelles ([L1 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
 - **2021-2022** : ATER à Université Sorbonne Nouvelle
-	* LYSL005 - La coréférence (M1 Plurital)
+	* LYSL005 - La coréférence ([M1 Plurital](http://www.tal.univ-paris3.fr/plurital/))
 	* LYOU008 - Apprendre à programmer avec python (cours décyclé L3/Master)
-	* L5FL001 - Linguistique de corpus (L3 Sciences du langage)
-	* L4F004 - Informatique et industrie de la langue (L2 Sciences du langage)
+	* L5FL001 - Linguistique de corpus ([L3 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
+	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 	* LZML021 - Programmation pour les humanités numériques (cours décyclé L3/Master)
 	* LZML041 - Statistiques textuelles (cours décyclé L3/Master)
 - **2020-2021** : ATER à Université Sorbonne Nouvelle
-	* LYSL005 - La coréférence (M1 Plurital)
+	* LYSL005 - La coréférence ([M1 Plurital](http://www.tal.univ-paris3.fr/plurital/))
 	* LYOU008 - Apprendre à programmer avec python (cours décyclé L3/Master)
-	* L5FL001 - Linguistique de corpus (L3 Sciences du langage)
-	* L4F004 - Informatique et industrie de la langue (L2 Sciences du langage)
+	* L5FL001 - Linguistique de corpus ([L3 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
+	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 	* LZML021 - Programmation pour les humanités numériques (cours décyclé L3/Master)
 	* LZML041 - Statistiques textuelles (cours décyclé L3/Master)
 - **2018-2019** : chargée de cours à Université Sorbonne Nouvelle
-	* L1IAHN-P - Introduction aux humanités numériques (L1 Sciences du langage - Mineure Humanités Numériques)
-	* M3TR36/M5TR36-P - Humanités numériques (L2/L3 Médiation culturelle)
-	* BYL502-P - Les humanités numériques (L1/L2/L3 Bureau des Enseignements Transversaux)
-	* L4F004 - Informatique et industrie de la langue (L2 Sciences du langage)
+	* L1IAHN-P - Introduction aux humanités numériques ([L1 Sciences du langage - Mineure Humanités Numériques](http://www.univ-paris3.fr/mineure-humanites-numeriques-451316.kjsp?RH=ACCUEIL))
+	* M3TR36/M5TR36-P - Humanités numériques ([L2/L3 Médiation culturelle](http://www.univ-paris3.fr/licence-mediation-culturelle-conception-et-mise-en-oeuvre-de-projets-culturels-247747.kjsp))
+	* BYL502-P - Les humanités numériques ([L1/L2/L3 Bureau des Enseignements Transversaux](http://www.univ-paris3.fr/bureau-des-enseignements-transversaux-bet--92468.kjsp?RH=1291648688143))
+	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 - **2017-2018** : chargée de cours à Université Sorbonne Nouvelle
-	* M3TR36/M5TR36-P - Humanités numériques (L2/L3 Médiation culturelle)
-	* BYL502-P - Les humanités numériques (L1/L2/L3 Bureau des Enseignements Transversaux)
-	* L4F004 - Informatique et industrie de la langue (L2 Sciences du langage)
+	* M3TR36/M5TR36-P - Humanités numériques ([L2/L3 Médiation culturelle](http://www.univ-paris3.fr/licence-mediation-culturelle-conception-et-mise-en-oeuvre-de-projets-culturels-247747.kjsp))
+	* BYL502-P - Les humanités numériques ([L1/L2/L3 Bureau des Enseignements Transversaux](http://www.univ-paris3.fr/bureau-des-enseignements-transversaux-bet--92468.kjsp?RH=1291648688143))
+	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 - **2016-2017** : chargée de cours à Université Sorbonne Nouvelle
-	* L4F004 - Informatique et industrie de la langue (L2 Sciences du langage)
+	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 
 
 # Publications
