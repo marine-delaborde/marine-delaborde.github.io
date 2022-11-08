@@ -22,16 +22,17 @@ header{
     box-shadow: inset 0px 1px 0px #65b32e, 0px 1px 1px #65b32e;
     background-color: #65b32e;
     color:#333;
-    
+   }
     &:hover {
       background: #65b32e;
       background-color: #65b32e;
     }
-  }
-
-  .fork {
+    .fork {
     background-color: #65b32e;
   }
+}
+
+ 
 
 ul{
   list-style-image:url('../images/bullet-md.png');
