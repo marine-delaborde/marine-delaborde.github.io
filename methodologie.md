@@ -18,10 +18,10 @@ layout: default
 
 # Séance 3
 - **Thème** : Interroger des corpus
-- Le 18/01/2022 de 13h30 à 15h30
+- Le 18/01/2023 de 13h30 à 15h30
 
 # Séance 4
 - **Thème** : Examen
-- Le 12/11/2022 de 13h30 à 15h30
+- Le 25/01/2023 de 13h30 à 15h30
 
 [Index](./)
