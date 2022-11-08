@@ -1,13 +1,14 @@
 ---
 ---
 
-@import "jekyll-theme-leap-day";
+@import "pages-themes/leap-day@v0.2.0";
 header{
 	background: #3d4543;
 	h1{
 		color: #54c9e8;
 	}
 }
+
 #banner {
 	background: #65b32e;
 }
