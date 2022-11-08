@@ -4,11 +4,13 @@ contact: marine.delaborde@cyu.fr
 show_downloads: false
 google_analytics:
 #remote_theme: pages-themes/midnight@v0.2.0
-#remote_theme: pages-themes/slate@v0.2.0
 #remote_theme: pages-themes/cayman@v0.2.0
 #remote_theme: pages-themes/architect@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 
-remote_theme: pages-themes/dinky@v0.2.0
+#remote_theme: pages-themes/dinky@v0.2.0
+#remote_theme: pages-themes/slate@v0.2.0
+
 
 github.is_project_page: true
 github.repository_url: https://github.com/marine-delaborde/marine-delaborde.github.io
