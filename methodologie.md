@@ -2,8 +2,9 @@
 layout: default
 ---
 
-#  UE 4 - Méthodologie (M1 SDL)
-- Ressources pour les séances de méthodologie (2022/2023) avec Marine Delaborde
+#  UE 4 - Méthodologie
+- Ressources pour les séances de méthodologie (2022/2023) du M1 Sciences du langage (CY Cergy Paris Université) avec Marine Delaborde
+- [Syllabus](files/cours/methodologie/Syllabus-Methodologie-22-23.pdf)
 
 # Séance 1
 - **Thème** : Recherche documentaire
