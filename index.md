@@ -20,7 +20,7 @@ layout: default
 # Thèse
 - **Soutenance** : le 14 décembre 2020.
 - **Directeur** : [Frédéric Landragin](http://fred.landragin.free.fr/)
-- **Titre** : « Analyse en corpus de chaînes de coréférence : la coréférence non-stricte à l’épreuve de la linguistique outillée. »
+- **Titre** : « Analyse en corpus de chaînes de coréférence : la coréférence non-stricte à l’épreuve de la linguistique outillée. »
 - **Mots-clés** : référence, coréférence, chaînes de coréférence, flou, annotation, corpus, schéma d’annotation.
 - **Manuscrit** : [https://www.theses.fr/2020PA030073](https://www.theses.fr/2020PA030073).
 - **Membres du jury** : 
@@ -73,14 +73,14 @@ layout: default
 - [CV-HAL](https://cv.archives-ouvertes.fr/marine-delaborde)
 - **Articles de revues** : 
 	* Marine Delaborde. La coréférence floue dans les chaînes du corpus DEMOCRAT. Langages, Armand Colin (Larousse jusqu'en 2003), 2021, Un corpus annoté en chaînes de référence et son exploitation : le projet Democrat, pp.47-65. [⟨hal-03474740⟩](https://hal.archives-ouvertes.fr/hal-03474740)
-	* Marine Delaborde, Frédéric Landragin. En quoi le pronom « on » a-t-il une valeur anaphorique ? Le cas des successions d'occurrences de « on ». Les cahiers de praxématique, Montpellier : Presses universitaires de la Méditerranée, 2006-, 2019, La gestion de l'anaphore en discours : complexités et enjeux, 72, pp.1-18. [⟨hal-02161902⟩](https://hal.archives-ouvertes.fr/hal-02161902)
+	* Marine Delaborde, Frédéric Landragin. En quoi le pronom  « on » a-t-il une valeur anaphorique ? Le cas des successions d'occurrences de  « on ». Les cahiers de praxématique, Montpellier : Presses universitaires de la Méditerranée, 2006-, 2019, La gestion de l'anaphore en discours : complexités et enjeux, 72, pp.1-18. [⟨hal-02161902⟩](https://hal.archives-ouvertes.fr/hal-02161902)
 - **Communications en congrès** : 
 	* Marco Naguib, Marine Delaborde, Blandine Andrault, Anaïs Bekolo, Olga Seminck. Romanciers et romancières du XIXème siècle : une étude automatique du genre sur le corpus GIRLS. Traitement Automatique des Langues Naturelles, 2022, Avignon, France. pp.66-77. Article : [⟨hal-03701468⟩](https://hal.archives-ouvertes.fr/hal-02161902)
 	* Marine Delaborde. Corpus analysis of coreference chains : annotation and good-enough representations (in a French corpus). Cognitive Science Seminar, Feb 2021, London, United Kingdom. [⟨hal-03144369⟩](https://hal.archives-ouvertes.fr/hal-03144369)
 	* Marine Delaborde, Auphélie Ferreira, Loïc Grobol, Gabrielle Le Tallec, Benjamin Fagard, et al.. Usages et perception du langage inclusif : des pratiques langagières clivantes ?. Entre féminin et masculin – langue(s) et société, Dec 2021, Lisbonne, Portugal. [⟨hal-03617684⟩](https://hal.archives-ouvertes.fr/hal-03617684)
 	* Marine Delaborde, Frédéric Landragin. De la coréférence exacte à la coréférence complexe : une typologie et sa mise en œuvre en corpus. 10èmes Jounées internationales de Linguistique de Corpus, Université Grenoble Alpes, Nov 2019, Grenoble, France. [⟨hal-02286100⟩](https://hal.archives-ouvertes.fr/hal-02286100)
-	* Marine Delaborde, Frédéric Landragin. Traitement " good-enough " du pronom " on " : vers une modélisation de la coréférence floue. Linguistic and Psycholinguistic Approaches to Text Structuring (LPTS) 2018, Jan 2018, Paris, France. [⟨halshs-01795228⟩](https://hal.archives-ouvertes.fr/hal-02286100)
-	* Frédéric Landragin, Marine Delaborde. Faut-il compter ou ignorer les occurrences de « ce » dans les chaînes de coréférences ?. Ce disant, que fait-on ? Aspects grammaticaux et discursifs de ce en français, Université de Strasbourg, 2018, Strasbourg, France. [⟨halshs-01836380⟩](https://hal.archives-ouvertes.fr/hal-02286100)
+	* Marine Delaborde, Frédéric Landragin. Traitement "good-enough" du pronom "on" : vers une modélisation de la coréférence floue. Linguistic and Psycholinguistic Approaches to Text Structuring (LPTS) 2018, Jan 2018, Paris, France. [⟨halshs-01795228⟩](https://hal.archives-ouvertes.fr/hal-02286100)
+	* Frédéric Landragin, Marine Delaborde. Faut-il compter ou ignorer les occurrences de « ce » dans les chaînes de coréférences ?. Ce disant, que fait-on ? Aspects grammaticaux et discursifs de ce en français, Université de Strasbourg, 2018, Strasbourg, France. [⟨halshs-01836380⟩](https://hal.archives-ouvertes.fr/hal-02286100)
 	* Marine Delaborde, Frédéric Landragin. En quoi le pronom “on” a-t-il une valeur anaphorique? Le cas des successions d’occurrences de “on”. Gérer L’Anaphore en Discours (GLAD 2018) : vers une approche interdisciplinaire / Managing Anaphora in Discourse : towards an interdisciplinary approach , Apr 2018, Grenoble, France. [⟨halshs-01795213⟩](https://halshs.archives-ouvertes.fr/halshs-01795213)
 	* Joseph J Mariani, Christopher Cieri, Gil Francopoulo, Patrick Paroubek, Marine Delaborde. Facing the identification problem in language-related scientific data analysis. International Conference on Language Resources and Evaluation, Jan 2014, Reykjavik, Iceland. 
 	Article : [⟨hal-01840821⟩](https://hal.archives-ouvertes.fr/hal-01840821)
