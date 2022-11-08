@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Marine Delaborde
+# À propos
 - **Poste actuel** : chaire de professeure junior à [CY Cergy Paris Université - LT2D](https://lt2d.cyu.fr)
 - Membre associé au laboratoire [Lattice - CNRS - ENS](https://www.lattice.cnrs.fr)
 - [Curriculum Vitae](files/CV/CV_court_CY_Delaborde.pdf)
