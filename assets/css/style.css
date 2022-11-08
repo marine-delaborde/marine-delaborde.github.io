@@ -1,0 +1,17 @@
+---
+---
+
+@import "jekyll-theme-leap-day";
+header{
+	background: #3d4543;
+	h1{
+		color: #54c9e8;
+	}
+}
+#banner {
+	background: #65b32e;
+}
+
+ul{
+  color : #ffe700;
+}
