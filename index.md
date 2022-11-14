@@ -71,6 +71,7 @@ layout: default
 
 # Publications
 - [CV-HAL](https://cv.archives-ouvertes.fr/marine-delaborde)
+- [Google Scholar](https://scholar.google.com/citations?user=KOvNpIcAAAAJ&hl=fr&oi=ao)
 - **Articles de revues** : 
 	* Marine Delaborde. La coréférence floue dans les chaînes du corpus DEMOCRAT. Langages, Armand Colin (Larousse jusqu'en 2003), 2021, Un corpus annoté en chaînes de référence et son exploitation : le projet Democrat, pp.47-65. [⟨hal-03474740⟩](https://hal.archives-ouvertes.fr/hal-03474740)
 	* Marine Delaborde, Frédéric Landragin. En quoi le pronom  « on » a-t-il une valeur anaphorique ? Le cas des successions d'occurrences de  « on ». Les cahiers de praxématique, Montpellier : Presses universitaires de la Méditerranée, 2006-, 2019, La gestion de l'anaphore en discours : complexités et enjeux, 72, pp.1-18. [⟨hal-02161902⟩](https://hal.archives-ouvertes.fr/hal-02161902)
