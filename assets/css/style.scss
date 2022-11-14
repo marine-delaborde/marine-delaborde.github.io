@@ -2,11 +2,16 @@
 ---
 
 @import 'jekyll-theme-leap-day';
+
 header{
 	background: #3d4543;
 	h1{
 		color: #54c9e8;
 	}
+}
+
+body {
+  background: #f5f6fa;
 }
 
 #banner {
@@ -24,19 +29,20 @@ header{
     background-color: #3d4543;
     font-color: #65b32e;
    }
+   
     &:hover {
     background: #3d4543;
     background-color: #3d4543;
     }
+   
     .fork {
     background-color: #3d4543;
   }
+  
   a.button {
     background-color: #65b32e;
    }
 }
-
- 
 
 ul{
   list-style-image:url('../images/bullet-md.png');
