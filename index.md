@@ -9,6 +9,7 @@ layout: default
 
 # Contact
 - **Mail** : [marine.delaborde@cyu.fr](mailto:marine.delaborde@cyu.fr)
+- **Page CY** :  [https://www.cyu.fr/marine-delaborde](https://www.cyu.fr/marine-delaborde)
 - **LinkedIn** : [https://www.linkedin.com/in/marine-delaborde/](https://www.linkedin.com/in/marine-delaborde/)
 
 # Thèmes de recherche
