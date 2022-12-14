@@ -18,6 +18,8 @@ layout: default
 - **Thème** : Traitement de textes
 - Le 13/12/2022, de 14h30 à 16h30
 - [Support du cours 2](files/cours/methodologie/METHODOLOGIE-Seance2-MD-2022.pdf)
+- Pour s'entraîner : [Regex Golf](https://alf.nu/RegexGolf?world=regex&level=r00)
+
 
 # Séance 3
 - **Thème** : Interroger des corpus
