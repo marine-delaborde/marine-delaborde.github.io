@@ -43,7 +43,7 @@ layout: default
 	* Constitution et exploration de corpus numériques ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
 	* [Méthodologie](methodologie) ([M1 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-1))
 	* [Pratiques rédactionnelles](pratiques-redactionnelles) ([L1 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
-	* Analyse du discours ([L2 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
+	* [Analyse du discours](analyse-du-discours) ([L2 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
 - **2021-2022** : ATER à Université Sorbonne Nouvelle
 	* LYSL005 - La coréférence ([M1 Plurital](http://www.tal.univ-paris3.fr/plurital/))
 	* LYOU008 - Apprendre à programmer avec python (cours décyclé L3/Master)
