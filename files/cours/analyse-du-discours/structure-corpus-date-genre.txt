@@ -1,0 +1,54 @@
+<genre="autrices">
+<article="Keyword1">
+<date="YYYYMMDD">
+Texte de l'article 1. 
+</date>
+</article> §
+<article="Keyword2">
+<date="YYYYMMDD">
+Texte de l'article 2. 
+</date>
+</article> §
+<article="Keyword3">
+<date="YYYYMMDD">
+Texte de l'article 3. 
+</date>
+</article> §
+<article="Keyword4">
+<date="YYYYMMDD">
+Texte de l'article 4. 
+</date>
+</article> §
+<article="Keyword5">
+<date="YYYYMMDD">
+Texte de l'article 5. 
+</date>
+</article> §
+</genre>
+<genre="auteurs">
+<article="Keyword6">
+<date="YYYYMMDD">
+Texte de l'article 6. 
+</date>
+</article> §
+<article="Keyword7">
+<date="YYYYMMDD">
+Texte de l'article 7. 
+</date>
+</article> §
+<article="Keyword8">
+<date="YYYYMMDD">
+Texte de l'article 8. 
+</date>
+</article> §
+<article="Keyword9">
+<date="YYYYMMDD">
+Texte de l'article 9. 
+</date>
+</article> §
+<article="Keyword10">
+<date="YYYYMMDD">
+Texte de l'article 10. 
+</date>
+</article> §
+</genre>
