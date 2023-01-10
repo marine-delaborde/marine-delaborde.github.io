@@ -23,21 +23,21 @@ layout: default
 
 # Séance 3
 - **Thème** : Ventilation et concordance
-- Le 22/03/2023, de  8h30 à 10h
+- Le ??/??/2023, de  8h30 à 10h
 - [Support du cours 3](files/cours/analyse-du-discours/AD3-Delaborde-2023.pdf)
 
 # Séance 4
 - **Thème** : Spécificités
-- Le 29/03/2023, de  8h30 à 10h
+- Le ??/??/2023, de  8h30 à 10h
 - [Support du cours 4](files/cours/analyse-du-discours/AD4-Delaborde-2023.pdf)
 
 # Séance 5
 - **Thème** : Cooccurrents et segments répétés
-- Le 05/04/2023, de  8h30 à 10h
+- Le ??/??/2023, de  8h30 à 10h
 - [Support du cours 5](files/cours/analyse-du-discours/AD5-Delaborde-2023.pdf)
 
 # Séance 6
 - **Thème** : Projet
-- Le 12/04/2023, de  8h30 à 10h
+- Le ??/??/2023, de  8h30 à 10h
 
 [Index](./)
