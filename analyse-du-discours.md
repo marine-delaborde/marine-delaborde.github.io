@@ -6,7 +6,7 @@ layout: default
 
 # UE - Analyse du discours
 - Ressources pour les séances de TD Analyse du discours (2022/2023) de L2 Lettres modernes (CY Cergy Paris Université)
-- [Syllabus](files/cours/analyse-du-discours/Syllabus-AD-22-23.pdf)
+- [Syllabus](files/cours/analyse-du-discours/Analyse-du-discours-syllabus-2023.pdf)
 - [Structure d'exemple](files/cours/analyse-du-discours/structure-corpus-date-genre.txt)
 - [Corpus de test](files/cours/analyse-du-discours/corpus_chronologique_journaux.txt)
 
