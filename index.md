@@ -18,31 +18,13 @@ layout: default
 - Statistiques textuelles
 - Traitement automatique des langues
 
-# Thèse
-- **Soutenance** : le 14 décembre 2020.
-- **Directeur** : [Frédéric Landragin](http://fred.landragin.free.fr/)
-- **Titre** : « Analyse en corpus de chaînes de coréférence : la coréférence non-stricte à l’épreuve de la linguistique outillée. »
-- **Mots-clés** : référence, coréférence, chaînes de coréférence, flou, annotation, corpus, schéma d’annotation.
-- **Manuscrit** : [https://www.theses.fr/2020PA030073](https://www.theses.fr/2020PA030073).
-- **Membres du jury** : 
-	* **Mme Laure GARDELLE** (rapportrice), professeur des Universités – Université Grenoble Alpes
-	* **M. Emmanuel SCHANG** (rapporteur), maître de conférences HDR – Université d’Orléans
-	* **M. Guy ACHARD-BAYLE** (examinateur), professeur des Universités – Université de Lorraine
-	* **Mme Jeanne-Marie DEBAISIEUX** : (examinatrice), professeur des Universités – Université Sorbonne Nouvelle
-	* **M. Frédéric LANDRAGIN** (directeur), directeur de recherche CNRS – Université Sorbonne Nouvelle
-- **Rattachements** : 
-	* **Université Sorbonne Nouvelle** : [Ecole doctorale 622 (Sciences du langage)](http://www.univ-paris3.fr/ed-622-sciences-du-langage-3413.kjsp)
-	* **Contrat ENS sur projet ANR** : [Democrat](https://www.lattice.cnrs.fr/democrat/)
-	* **Equipe de recherche** : [LaTTiCe – Langues, Textes, Traitements informatiques, Cognition – UMR  8094](https://www.lattice.cnrs.fr)
-	* **Section CNU** : 07 – Sciences du langage : linguistique et phonétique générales
-
 # Enseignements
 - **2022-2023** : CPJ à CY Cergy Paris Université
 	* Traitement qualitatif des données textuelles en contexte professionnel ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
 	* Algorithmie et intelligence artificielle ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
 	* Constitution et exploration de corpus numériques ([M2 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-2-sciences-du-langage-en-contextes-professionnels-humanites-numeriques-linguistique-et-informa))
 	* [Méthodologie](methodologie) ([M1 Sciences du langage](https://www.cyu.fr/master-sciences-du-langage-1))
-	* Pratiques-redactionnelles ([L1 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
+	* [Pratiques rédactionnelles](pratiques-redactionnelles) ([L1 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
 	* [Analyse du discours](analyse-du-discours) ([L2 Lettres modernes](https://www.cyu.fr/licence-lettres-parcours-lettres-modernes))
 - **2021-2022** : ATER à Université Sorbonne Nouvelle
 	* LYSL005 - La coréférence ([M1 Plurital](http://www.tal.univ-paris3.fr/plurital/))
@@ -69,7 +51,24 @@ layout: default
 	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
 - **2016-2017** : chargée de cours à Université Sorbonne Nouvelle
 	* L4F004 - Informatique et industrie de la langue ([L2 Sciences du langage](http://www.univ-paris3.fr/licence-sciences-du-langage-243229.kjsp))
-
+	
+# Thèse
+- **Soutenance** : le 14 décembre 2020.
+- **Directeur** : [Frédéric Landragin](http://fred.landragin.free.fr/)
+- **Titre** : « Analyse en corpus de chaînes de coréférence : la coréférence non-stricte à l’épreuve de la linguistique outillée. »
+- **Mots-clés** : référence, coréférence, chaînes de coréférence, flou, annotation, corpus, schéma d’annotation.
+- **Manuscrit** : [https://www.theses.fr/2020PA030073](https://www.theses.fr/2020PA030073).
+- **Membres du jury** : 
+	* **Mme Laure GARDELLE** (rapportrice), professeur des Universités – Université Grenoble Alpes
+	* **M. Emmanuel SCHANG** (rapporteur), maître de conférences HDR – Université d’Orléans
+	* **M. Guy ACHARD-BAYLE** (examinateur), professeur des Universités – Université de Lorraine
+	* **Mme Jeanne-Marie DEBAISIEUX** : (examinatrice), professeur des Universités – Université Sorbonne Nouvelle
+	* **M. Frédéric LANDRAGIN** (directeur), directeur de recherche CNRS – Université Sorbonne Nouvelle
+- **Rattachements** : 
+	* **Université Sorbonne Nouvelle** : [Ecole doctorale 622 (Sciences du langage)](http://www.univ-paris3.fr/ed-622-sciences-du-langage-3413.kjsp)
+	* **Contrat ENS sur projet ANR** : [Democrat](https://www.lattice.cnrs.fr/democrat/)
+	* **Equipe de recherche** : [LaTTiCe – Langues, Textes, Traitements informatiques, Cognition – UMR  8094](https://www.lattice.cnrs.fr)
+	* **Section CNU** : 07 – Sciences du langage : linguistique et phonétique générales
 
 # Publications
 - [CV-HAL](https://cv.archives-ouvertes.fr/marine-delaborde)
