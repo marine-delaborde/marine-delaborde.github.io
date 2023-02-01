@@ -12,7 +12,7 @@ layout: default
 - **Thème** : Introduction et connecteurs logiques
 - Le 18/01/2023, de 10h15 à 11h45
 - [Support du cours 1](files/cours/pratiques-redactionnelles/PR1-Delaborde-2023.pdf)
-- [Dictée](files/cours/pratiques-redactionnelles/dictee-croc-blanc.pdf)
+- [Dictée Croc blanc](files/cours/pratiques-redactionnelles/dictee-croc-blanc.pdf)
 - [Exercices connecteurs logiques 1](files/cours/pratiques-redactionnelles/Exercices-connecteurs1.pdf)
 - [Exercices connecteurs logiques 2](files/cours/pratiques-redactionnelles/Exercices-connecteurs2.pdf)
 
@@ -28,7 +28,7 @@ layout: default
 - Le 01/02/2023, de 10h15 à 11h45
 - [Support du cours 3](files/cours/pratiques-redactionnelles/PR3-Delaborde-2023.pdf)
 - [Exercices homonymes grammaticaux](files/cours/pratiques-redactionnelles/Exercices_PR_homonymes1.pdf)
-
+- [Dictée homophones grammaticaux](files/cours/pratiques-redactionnelles/dictee-homonymes.pdf)
 
 # Séance 4
 - **Thème** : Homonymes lexicaux
