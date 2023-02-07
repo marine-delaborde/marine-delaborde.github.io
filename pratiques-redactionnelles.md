@@ -34,6 +34,8 @@ layout: default
 - **Thème** : Homonymes lexicaux
 - Le 08/02/2023, de 10h15 à 11h45
 - [Support du cours 4](files/cours/pratiques-redactionnelles/PR4-Delaborde-2023.pdf)
+- [Exercices homonymes lexicaux](files/cours/pratiques-redactionnelles/Exercices_PR_homonymes2.pdf)
+
 
 # Séance 5
 - **Thème** : Parties du discours
