@@ -29,7 +29,7 @@ layout: default
 # Séance 4
 - **Thème** : Spécificités
 - Le 29/03/2023, de  8h30 à 10h
-- [Support du cours 4](files/cours/analyse-du-discours/AD4-Delaborde-2023.pdf)
+- [Support du cours 4](files/cours/analyse-du-discours/AD4-Delaborde-2023.pdf) (mis à jour le 29/03/2023)
 
 # Séance 5
 - **Thème** : Cooccurrents et segments répétés
@@ -39,5 +39,10 @@ layout: default
 # Séance 6
 - **Thème** : Projet
 - Le 12/04/2023, de  8h30 à 10h
+
+# Projet 
+- **Par mail** (à Luciana Radut-Gaghi et Marine Delaborde) avant le 19/04/2023 à 19h. 
+- **10 pages** sans la page de garde et la bibliographie : 3/4 pages par partie analyse des catégories et textométrie ettre la liste des articles en annexe. 
+- **Format** : PDF pour l'analyse et TXT pour le corpus pour itrameur
 
 [Index](./)
