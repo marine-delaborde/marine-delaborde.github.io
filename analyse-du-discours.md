@@ -41,8 +41,8 @@ layout: default
 - Le 12/04/2023, de  8h30 à 10h
 
 # Projet 
-- **Par mail** (à Luciana Radut-Gaghi et Marine Delaborde) avant le 19/04/2023 à 19h. 
-- **10 pages** sans la page de garde et la bibliographie : 3/4 pages par partie analyse des catégories et textométrie ettre la liste des articles en annexe. 
-- **Format** : PDF pour l'analyse et TXT pour le corpus pour itrameur
+- **Rendu par mail** (à Luciana Radut-Gaghi et Marine Delaborde) avant le 19/04/2023 à 19h. 
+- **10 pages** sans la page de garde et la bibliographie : 3/4 pages par partie (analyse des catégories et textométrie). Mettre la liste des articles en annexe. 
+- **Format** : PDF pour l'analyse et TXT pour le corpus pour itrameur.
 
 [Index](./)
