@@ -13,8 +13,8 @@ layout: default
 - **LinkedIn** : [https://www.linkedin.com/in/marine-delaborde/](https://www.linkedin.com/in/marine-delaborde/)
 
 # Thèmes de recherche
-- Linguistique de corpus outillée / Statistiques textuelles / Traitement automatique des langues
-- Analyse du discours en contexte professionel : projet de CPJ à CY
+- Linguistique de corpus outillée / Traitement automatique des langues / Statistiques textuelles / Humanités numériques
+- Analyse du discours en contexte professionnel : [RECIPRO](recipro) (projet de CPJ à CY)
 - Référence et coréférence : thèse de doctorat financée par le projet ANR [Democrat](https://www.lattice.cnrs.fr/democrat/index.html)
 - Jeux de mots : [Aligator](https://apps.lattice.cnrs.fr/aligator)
 
