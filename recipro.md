@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# RECIPRO
-- Analyse du discours en contexte professionnel
+# ReCiPro
+- Ressources issues de Communications en contexte professionnel
+
+
 
 [Index](./)
