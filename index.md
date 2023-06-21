@@ -15,8 +15,8 @@ layout: default
 # Thèmes de recherche
 - Linguistique de corpus outillée / Traitement automatique des langues / Statistiques textuelles / Humanités numériques
 - Analyse du discours en contexte professionnel : [RECIPRO](recipro) (projet de CPJ à CY)
-- Référence et coréférence : thèse de doctorat financée par le projet ANR [Democrat](https://www.lattice.cnrs.fr/democrat/index.html)
 - Jeux de mots : [Aligator](https://apps.lattice.cnrs.fr/aligator)
+- Référence et coréférence : thèse de doctorat financée par le projet ANR [Democrat](https://www.lattice.cnrs.fr/democrat/index.html)
 
 # Enseignements actuels
 - **2022-2023** : CPJ à CY Cergy Paris Université
