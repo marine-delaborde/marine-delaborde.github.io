@@ -2,9 +2,7 @@
 layout: default
 ---
 
-#  Marine Delaborde
-
-# UE - Analyse du discours
+# UE - Analyse du discours (Marine Delaborde)
 - Ressources pour les séances de TD Analyse du discours (2022/2023) de L2 Lettres modernes (CY Cergy Paris Université)
 - [Syllabus](files/cours/analyse-du-discours/Analyse-du-discours-syllabus-2023.pdf)
 - [Structure d'exemple](files/cours/analyse-du-discours/structure-corpus-date-genre-paragraphe.txt)
@@ -45,4 +43,4 @@ layout: default
 - **10 pages** sans la page de garde et la bibliographie : 3/4 pages par partie (analyse des catégories et textométrie). Mettre la liste des articles en annexe. 
 - **Format** : PDF pour l'analyse et TXT pour le corpus pour itrameur.
 
-[Index](./)
+[Page d'accueil (Marine Delaborde)](./)

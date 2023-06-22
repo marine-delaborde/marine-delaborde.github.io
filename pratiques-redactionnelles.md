@@ -2,9 +2,7 @@
 layout: default
 ---
 
-#  Marine Delaborde
-
-# UE - Pratiques rédactionnelles
+# UE - Pratiques rédactionnelles (Marine Delaborde)
 - Ressources pour les séances de TD pratiques rédactionnelles (2022/2023) de L1 Lettres modernes (CY Cergy Paris Université)
 - [Syllabus](files/cours/pratiques-redactionnelles/Syllabus-PR-22-23.pdf)
 
@@ -75,4 +73,4 @@ layout: default
 - **Thème** : Examen
 - Le 12/04/2023, de 10h15 à 11h45
 
-[Index](./)
+[Page d'accueil (Marine Delaborde)](./)
