@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# UE 4 - Méthodologie
+# UE 4 - Méthodologie (Marine Delaborde)
 - Ressources pour les séances de méthodologie (2022/2023) du M1 Sciences du langage (CY Cergy Paris Université)
 - [Syllabus](files/cours/methodologie/Syllabus-Methodologie-22-23.pdf)
 - [Feuille de présence](https://docs.google.com/spreadsheets/d/1rkudnCx2QML91Vo4R8NnXTlFMNoFqEfvn07EJ6z3u6U/edit?usp=sharing)
