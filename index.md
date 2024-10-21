@@ -13,6 +13,6 @@ layout: default
 
 
 # Job offers
-- **CPJIGE25** :  ingénieur·e d'études en Humanités numériques (15 à 17 mois)[Fiche de poste](files/job/Fiche-de-Poste-LT2D-CPJIGE25.pdf)
-- **CPJPOSTDOC25** : contrat post-doctoral en linguistique de corpus outillée (12 mois) [Fiche de poste](files/job/Fiche-de-Poste-LT2D-CPJPOSTDOC25.pdf)
+- **CPJIGE25** :  ingénieur·e d'études en Humanités numériques (15 à 17 mois) - [[Fiche de poste]](files/job/Fiche-de-Poste-LT2D-CPJIGE25.pdf)
+- **CPJPOSTDOC25** : contrat post-doctoral en linguistique de corpus outillée (12 mois) - [[Fiche de poste]](files/job/Fiche-de-Poste-LT2D-CPJPOSTDOC25.pdf)
 
