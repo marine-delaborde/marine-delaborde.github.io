@@ -12,4 +12,4 @@ layout: default
 - **LinkedIn** : [https://www.linkedin.com/in/marine-delaborde/](https://www.linkedin.com/in/marine-delaborde/)
 
 # Journée d'étude
-- [Coréférence et structure textuelle](coreference/je25.md)
+- [Regards croisés sur la coréférence](coreference/je25.md)
