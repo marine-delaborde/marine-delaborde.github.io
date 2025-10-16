@@ -13,3 +13,7 @@ layout: default
 
 # Journée d'étude
 - [Regards croisés sur la coréférence](coreference/je25.md)
+
+# Offres d'emploi / de stage 
+- [Stage  - Humour et IA](postes/Fiche-de-Poste-Stage-26-LT2D.pdf) (février - juin 2025)
+- Ingénieur d'études  - Humour et IA (offre à venir)
