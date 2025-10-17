@@ -20,4 +20,4 @@ layout: default
 
 # CPJ "Ressources numériques en SHS"
 
-![CPJ 2025](CPJ-Montpellier-DELABORDE.png "CPJ 2025")
+<embed src="CPJ-Montpellier-DELABORDE-links.png" width="600" height="500" type="application/pdf">
