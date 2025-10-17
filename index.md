@@ -17,3 +17,7 @@ layout: default
 # Offres d'emploi / de stage 
 - [Stage  - Humour et IA : génération automatique](postes/Fiche-de-Poste-Stage-26-LT2D.pdf) (février - juin 2025)
 - Ingénieur d'études  - Humour et IA : détection automatique (offre à venir)
+
+# Chaire de professeure junior "Ressources numériques en SHS"
+
+![CPJ 2025](CPJ-Montpellier-DELABORDE.png "CPJ 2025")
