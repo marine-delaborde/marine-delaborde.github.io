@@ -11,8 +11,9 @@ layout: default
 - **Page professionnelle** :  [https://www.cyu.fr/marine-delaborde](https://www.cyu.fr/marine-delaborde)
 - **LinkedIn** : [https://www.linkedin.com/in/marine-delaborde/](https://www.linkedin.com/in/marine-delaborde/)
 
-# Journée d'étude
-- [Regards croisés sur la coréférence](coreference/je25.md)
+# Journées d'études
+- [Regards croisés sur la coréférence](coreference/je25.md) (2025)
+- [Humour et IA](/Humour-IA/je26.md) (2026)
 
 # Offres d'emploi / de stage 
 - [Stage  - Humour et IA : génération automatique](postes/Fiche-de-Poste-Stage-26-LT2D.pdf) (février - juin 2025)
