@@ -20,4 +20,4 @@ layout: default
 
 # CPJ "Ressources numériques en SHS"
 
-<embed src="CPJ-Montpellier-DELABORDE-links.pdf" width="600" height="500" type="application/pdf">
+<embed src="CPJ-Montpellier-DELABORDE-links-2.pdf" width="600" height="500" type="application/pdf">
